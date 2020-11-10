@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name open-switchplate)(type KiCad)(uri ${KIPRJMOD}/open-switchplate.pretty)(options "")(descr ""))
+)
